@@ -1,8 +1,8 @@
 def using_while
   levitation_force = 6
 	
-	while num_of_hotdogs_eaten < 7
-  num_of_hotdogs_eaten += 1
+	while levitation_force < 11
+  levitation_force += 1
   puts "You have now eaten #{num_of_hotdogs_eaten} hot dog(s)."
 end
 end
